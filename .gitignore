@@ -1,0 +1,10 @@
+# This portfolio commits only the reviewed text documents and example.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/methodology.md
+!/examples/
+/examples/*
+!/examples/synthetic_demo.py
